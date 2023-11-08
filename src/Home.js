@@ -33,7 +33,7 @@ const Home = () => {
 
 
     <div className='wrd'>
-    We transform <span className='text-[#EB5D00]'>Nervous</span> Speakers into <span className='text-[#EB5D00]'>Confident</span> 
+    We transform <span className='text-[#EB5D00]'>Nervous</span> Speakers into <span className='text-[#EB5D00]'>Confident </span> 
     Speakers and <span className='text-[#EB5D00]'>Mumblers</span> into clear, <span className='text-[#EB5D00]'>interesting</span> speakers.
     </div>
 

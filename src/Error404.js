@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom'
 
 const Error404 = () => {
   return (
-    <div>
-        <h1>Error404</h1>
+    <div className='mt-4'>
+        <div className='text-6xl'>Error404</div>
 
-        <h5>The page is not available <Link  style={{ textDecoration:'none'}} to ='/'> go back to homepage</Link></h5>
+        <div className='text-2xl'>The page is not available <Link className='text-blue-600' style={{ textDecoration:'none'}} to ='/'> go back to homepage</Link></div>
         
     </div>
   )

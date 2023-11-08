@@ -24,7 +24,7 @@ function App() {
       {/* <Route path='About' element={<About/>}/> */}
       {/* <Route path='Contact' element={<Contact/>}/> */}
       {/* <Route path='Support' element={<Support/>}/> */}
-      {/* <Route path='*' element={<Error404/>}/> */}
+      <Route path='*' element={<Error404/>}/>
       </Routes>
       </BrowserRouter> 
     </div>
