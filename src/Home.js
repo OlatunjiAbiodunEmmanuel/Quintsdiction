@@ -53,7 +53,7 @@ const Home = () => {
           </div>
 
 
-          <div className='lg:inline text-center pb-4`'>
+          <div className='lg:inline text-center pb-4'>
             <Link className='text-base qt2 border-none rounded-full text-center' to ='/'style={change1}
             onMouseEnter={()=>{setChange1(color1)}} onMouseLeave={()=>{setChange1(color2)}}>Get started</Link>
           </div>
