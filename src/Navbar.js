@@ -25,8 +25,8 @@ const Navbar = () => {
   return (
 
     <div className=''>
-      <div  className='flex justify-around lg:justify-end items-center p-3'style={orangeColor}>
-         <div style={{marginRight:"2.2rem",color:"white"}}><i class="fa-regular fa-envelope pr-2"style={{color: "#fafcff"}}></i>info@quintsdiction.com</div> 
+      <div  className='flex justify-between lg:justify-end items-center p-3'style={orangeColor}>
+         <div style={{marginRight:"1rem",color:"white"}}><i class="fa-regular fa-envelope pr-2"style={{color: "#fafcff"}}></i>info@quintsdiction.com</div> 
       <div style={{marginRight:"7.5rem",color:"white"}}><i class="fa-solid fa-phone pr-2"style={{color: "#fafcff"}}></i>info@quintsdiction.com</div>
       </div>
 
