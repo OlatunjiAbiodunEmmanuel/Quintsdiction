@@ -5,3 +5,35 @@
   .syt2{
     padding: 0.8rem;
   }
+  .words{
+    /* width: 36.25rem; */
+    color: white;
+    font-family: Cormorant Garamond;
+    font-size: 3.25rem;
+    font-weight: 700; 
+    word-wrap: break-word
+  }
+  .qt{
+    font-size: 1.125rem; 
+    font-family: Montserrat;
+     font-weight: 500; 
+     word-wrap: break-word
+  }
+  .qt2{
+    color: white;
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 700;
+    word-wrap: break-word;
+    padding: 0.8rem;
+  }
+  .wrd{
+    width: 100%; 
+    text-align: center;
+     font-size: 52px; 
+     font-family: Cormorant Garamond; 
+     font-weight: 700; 
+     word-wrap: break-word;
+     background-color: #212529;
+     color: white;
+  }

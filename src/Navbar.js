@@ -41,7 +41,7 @@ const Navbar = () => {
           <div className="relative group ">
           <button
             onClick={toggleDropdown}
-            className="text-white focus:outline-none border-none border-b-4 border-[#FFCEAE] focus:border-solid mr-6"
+            className="text-white focus:outline-none border-none border-b-4 border-[#FFCEAE] hover:border-solid mr-6"
           >
             About us<i class="fa-solid fa-chevron-down ml-3"style={{color:"#e6e6e6"}}></i>
           </button>
@@ -59,7 +59,7 @@ const Navbar = () => {
         <div className="relative group ">
           <button
             onClick={toggleDropdown1}
-            className="text-white focus:outline-none border-none border-b-4 border-[#FFCEAE] focus:border-solid mr-6"
+            className="text-white focus:outline-none border-none border-b-4 border-[#FFCEAE] hover:border-solid mr-6"
           >
             Service<i class="fa-solid fa-chevron-down ml-3"style={{color:"#e6e6e6"}}></i>
           </button>

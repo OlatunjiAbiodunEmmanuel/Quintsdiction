@@ -7,9 +7,13 @@ module.exports = {
     extend: {
       colors: {
         'fade': '#FFCEAE',
-        'orange':'#EB5D00'
+        'orange':'#EB5D00',
+        
     },
+    width: {
+      '128': '36.25rem',
   },
   plugins: [],
+}
 }
 }
